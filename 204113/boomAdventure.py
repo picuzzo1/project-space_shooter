@@ -1,6 +1,6 @@
 
-# Champ game
-# Star_War_-_Soundtrack_(DemoLat.com).mp3
+# Project 204113
+# Sound from Martin Bersier and LittleRobotSoundFactory
 # Art from Kenney.nl
 
 import pygame
